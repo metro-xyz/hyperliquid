@@ -56,6 +56,7 @@ export * from "./_methods/meta.ts";
 export * from "./_methods/metaAndAssetCtxs.ts";
 export * from "./_methods/openOrders.ts";
 export * from "./_methods/orderStatus.ts";
+export * from "./_methods/perpAnnotation.ts";
 export * from "./_methods/perpDeployAuctionStatus.ts";
 export * from "./_methods/perpDexLimits.ts";
 export * from "./_methods/perpDexs.ts";
